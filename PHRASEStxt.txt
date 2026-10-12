@@ -1,0 +1,1536 @@
+Af Mahawey
+
+1. I am hungry.
+Af-Maay: Baahi iy haayte
+
+2. I am thirsty.
+Af-Maay: Oong iy haaye
+
+3. I am tired.
+Af-Maay: Ani nooginya
+
+4. I am happy today.
+Af-Maay: Ani geegi farahsinye /maante farahsinye
+
+5. I am ready.
+Af-Maay: Ani diyaar eya/diyaar eya
+
+6. I am busy.
+Af-Maay: Ani mashquulsinya/mashquul eya
+
+7. I am at home.
+Af-Maay: Ani miningki rooge
+
+8. I am going to school.
+Af-Maay: Ani iskuulke  unjeede 
+
+9. I am coming now.
+Af-Maay: Haddi sadarere/ haddi kooyoye 
+
+10. I am leaving.
+Af-Maay: Ani bahooye
+
+11. Please sit down.
+Af-Maay: Fadlan fadheeso
+
+12. Please stand up.
+Af-Maay: Fadlan roogso
+
+13. Open the door.
+Af-Maay: Iridi fur
+
+14. Close the window.
+Af-Maay: Dariishathi hir
+
+15. Turn on the light.
+Af-Maay: Nalki shid
+
+16. Turn off the light.
+Af-Maay: Nalki demi
+
+17. Come here.
+Af-Maay: Inti kooy/ kooy inti 
+
+18. Go there.
+Af-Maay: Intas seew/ intas unbaah 
+
+19. Wait for me.
+Af-Maay: Isuk
+
+20. Follow me.
+Af-Maay: Iy sarah
+
+21. I understand.
+Af-Maay: Ani fahamii
+
+22. I don't understand.
+Af-Maay: Ani ma fahanne
+
+23. Speak slowly.
+Af-Maay: Tartiib ing koot/tartiib unhadal 
+
+24. Speak louder.
+Af-Maay: Etka kor ing qaat/kor unhadal
+
+25. Listen carefully.
+Af-Maay: Si fiaang ing dhegeenso/si faas ung dhageenso 
+
+26. Look at me.
+Af-Maay: Iy dey/ani isa dey 
+
+27. Look over there.
+Af-Maay: Intas dey
+
+28. Be careful.
+Af-Maay: Is alaali
+
+29. Don't worry.
+Af-Maay: Ang ka welwelto/ Ang walwelto
+
+30. Calm down.
+Af-Maay: Is deji
+
+31. It is raining.
+Af-Maay: Roob qowooye 
+
+32. It is very hot.
+Af-Maay: Kuleel zaa’it way
+
+33. It is very cold.
+Af-Maay: Qawoob zaa’it way
+
+34. The food is delicious.
+Af-Maay: Hungurgi manyang way
+
+35. The water is clean.
+Af-Maay: Biyoogi nathiif way
+
+36. The baby is sleeping.
+Af-Maay: Unugi hundurooye/dhinaanke hundurooye
+
+37. The children are playing.
+Af-Maay: Ilmo dhe'dheeloyena
+
+38. The dog is barking.
+Af-Maay: Eeyki qaayliyoye
+
+39. The cat is eating.
+Af-Maay: Nyawuthi aamoyte
+
+40. The birds are flying.
+Af-Maay: Shimbiro buuwoyan
+
+41. I like this place.
+Af-Maay: Ani meelang je'elye
+
+42. This is my friend.
+Af-Maay: Kang saahibkey way
+
+43. That is my house.
+Af-Maay: Kaas miningkey way
+
+44. We are ready.
+Af-Maay: Unu diyaar ena/diyar ena
+
+45. They are waiting outside.
+Af-Maay: iyu banki kasugooyena
+
+46. He is reading a book.
+Af-Maay: Usu buug aqriyoye
+
+47. She is writing a letter.
+Af-Maay: Iiy warqad qoroyte
+
+48. We are eating together.
+Af-Maay: Unu hungurigi isla aamoyne/isla aamoyne
+
+49. They are working hard.
+Af-Maay: Iyo zaa'it shaqeeyoyena/zaa’it shaqeeyoyena
+
+50. The market is open.
+Af-Maay: Suukti furinte
+
+51. The shop is closed.
+Af-Maay: dukaanke hirinya
+
+52. Today is a good day.
+Af-Maay: Geegi beela way/ maante maalin faas way
+
+53. Tomorrow will be better.
+Af-Maay: Beri na horle beela ing nagathaase/beri kasii faaslinta 
+
+54. Yesterday was difficult.
+Af-Maay: Sheley dhib a'haayi/sheley adkayte
+
+55. Everything is okay.
+Af-Maay: Wal dhamang roonye/wal walba beela way
+
+56. Nothing is impossible.
+Af-Maay: Wal dhamang surtugal ey la weel kare/wal walba surtagal way
+
+57. We will meet again.
+Af-Maay: Mar kale inis aragaane/mar kale kuluumane 
+
+58. Have a safe journey.
+Af-Maay: Safarka nebwed ka dhamaay/sii nebeed iy kasafar 
+
+59. Welcome home.
+Af-Maay: Sadhowaaw miningki/miningki kasadhowaaw 
+
+60. See you tomorrow.
+Af-Maay: Beri inis aragaane/Beri is aragaane 
+
+62. Who is this?
+Af-Maay: Ay way kang?
+
+63. Who is that?
+Af-Maay: Ay way kaas?
+
+64. Who is it?
+Af-Maay: Ay way?
+
+74. Who is your brother?
+Af-Maay: Ay way walaalka?
+
+75. Who is your sister?
+Af-Maay: Ay way walaala?
+
+76. Who is your friend?
+Af-Maay: Ay way saahibka?
+
+77. Who is your teacher?
+Af-Maay: Ay way ma'alingka?
+
+78. Who is your boss?
+Af-Maay: Ay way badrooniga?
+
+79. Who is your child?
+Af-Maay: Ay way dhinaangka?
+
+81. Who is your wife?
+Af-Maay: Ay eta naagta?
+
+82. Who called you?
+Af-Maay: Ay king weeri?
+
+83. Who told you?
+Af-Maay: Ay king sheegi?
+
+84. Who sent you?
+Af-Maay: Ay ki sadiri?
+
+85. Who brought this?
+Af-Maay: Ay sheeni kang?/ay kang sheeni?
+
+86. Who did this?
+Af-Maay: Ay sameeyi? / Ay weeli? / Ay suubiyi?
+
+87. Who broke it?
+Af-Maay: Ay jyewiyi?
+
+88. Who took it?
+Af-Maay: Ay qaathithi?
+
+89. Who saw it?
+Af-Maay: Ay aragi?
+
+90. Who heard it?
+Af-Maay: Ay dheegi?
+
+91. Who knows?
+Af-Maay: Ay ogya?
+
+92. Who wants this?
+Af-Maay: Ay kang rabwe?
+
+93. Who needs help?
+Af-Maay: Ay la aawiyo rabwe?
+
+94. Who is coming?
+Af-Maay: Ay kooyoye?
+
+95. Who is leaving?
+Af-Maay: Ay bahooye?
+
+96. Who is speaking?
+Af-Maay: Ay koothoye?
+
+97. Who is laughing?
+Af-Maay: Ay qosholooye?
+
+98. Who is crying?
+Af-Maay: Ay ooyoye?
+
+99. Who is singing?
+Af-Maay: Ay heesoye?
+
+100. Who is working?
+Af-Maay: Ay shaqeeyoye?
+
+101. Who is sleeping?
+Af-Maay: Ay hundurooye?
+
+102. Who is waiting?
+Af-Maay: Ay sugooye?
+
+103. Who is driving?
+Af-Maay: Ay weethoye?
+
+104. Who is cooking?
+Af-Maay: Ay kariyooye?
+
+105. Who is eating?
+Af-Maay: Ay aamoye?
+
+106. Who is drinking?
+Af-Maay: Ay dhamooye?
+
+107. Who is knocking?
+Af-Maay: Ay sadhowoye?
+
+108. Who is at the door?
+Af-Maay: Ay rooge iridi?
+
+109. Who is on the phone?
+Af-Maay: Ay teleefangki ki jir?
+
+110. Who lives here?
+Af-Maay: Ay deginye inti?
+
+111. Who lives there?
+Af-Maay: Ay deginye intaas?
+
+112. Who is first?
+Af-Maay: Ay ka hooreyi?
+
+113. Who is next?
+Af-Maay: Ay ka hikye?
+
+114. Who is right?
+Af-Maay: Ay sahsinye?
+
+115. Who is wrong?
+Af-Maay: Ay qaldinye?
+
+116. Who is responsible?
+Af-Maay: Ay mas'uul ka eya?
+
+117. Who are we waiting for?
+Af-Maay: Ay sugooyne?
+
+118. Who do you mean?
+Af-Maay: Ay kawede ?
+
+119. Who do you know?
+Af-Maay: Ay ogte?/ay kasooyte?
+
+120. Who should I ask?
+Af-Maay: Ay warsithe?
+
+121. Once upon a time, there was a kind king.
+Af-Maay: Maalin maalmo ka mid ita maay jiraay boqor nahariis badanya 
+
+122. Long ago, people lived very differently.
+Af-Maay: wagtige hore dadke si kala duwan u noolad jireen 
+
+123. There was a young boy named Ahmed.
+Af-Maay: maay jir jiraay dhinaan yar oo la dhahaw Ahmed 
+
+124. There lived an old woman in a small village.
+Af-Maay:Miy jiraayte naag duq ita oo tuulo yar ku noolayte 
+
+125. One day, everything changed.
+Af-Maay: Maalanto wal walbo is baddeleen 
+
+126. Early one morning, the family left home.
+Af-Maay: Hiraabsimeelko, reerki miningki beheen 
+
+127. Later that day, they reached the river.
+Af-Maay: Maalantas ku bahdi, wobigi deerena
+
+128. Suddenly, they heard a loud noise.
+Af-Maay: si kedis iya may dhiigin cod dheer 
+
+129. At that moment, everyone became quiet.
+Af-Maay: Waqtigaas, detki dhamang shuub dhahiin 
+
+130. Meanwhile, another group was searching for them.
+Af-Maay: Isla markas , asahab kale iyo weydiyayena
+
+131. After a while, the rain stopped.
+Af-Maay: muddo yar kadib , roobki rooksithi
+
+132. Then, they continued their journey.
+Af-Maay: Markas, may sii  wethitheena safarsho 
+
+133. Next, they climbed the mountain.
+Af-Maay: Markaas na, iyo buurti koreena
+
+134. Finally, they arrived safely at home.
+Af-Maay: unku dhambiske , iyo miningsho kooyena
+
+135. Because of that, everyone was happy.
+Af-Maay: Sithaas hungshe, iyo dhan. farahsinaayena
+
+136. As a result, the village became peaceful.
+Af-Maay: Sidaas daradeeye , tuulade may nagate mid newed ita 
+
+137. However, one person disagreed.
+Af-Maay: Laaking, hal kof diithi
+
+138. Even though it was difficult, they never gave up.
+Af-Maay: Sithi siikasto ka rafathena, weli mas quusne/ siikasto iyo unrafathen masdhibne 
+
+139. Unfortunately, they lost all their food.
+Af-Maay: Nasiib daro, may wayen dhaman hungurisho
+
+140. Fortunately, a traveler helped them.
+Af-Maay: Nasiib wanag , kof safaraya iyo aawiyi
+
+141. Without warning, the wind became very strong.
+Af-Maay: Dikniin la'aang, hangfarki zaa'it ulees nagathi
+
+142. To everyone's surprise, the child solved the problem.
+Af-Maay: Kof walbo yaawi, marki igaarki dhibki halliiye 
+
+143. He said, "Do not be afraid."
+Af-Maay: Usu may dha'hi, "Ang absito"
+
+144. They replied, "We will help you."
+Af-Maay: may unjawaween , "Unu ki aawiyaane"
+
+145. They decided to stay together.
+Af-Maay: Iyo may katalitheena ina isla jiraathona/roogona
+
+146. They began to build a new home.
+Af-Maay: Iyo may bilaawena ina dhisithan mining useebki
+
+147. They continued working until sunset.
+Af-Maay: Iyo wethena hooli intigi iriithi ka dhiyaaso/shaqadiyo wadidhan ila irithi ka dhiyaaso 
+
+148. They found a hidden treasure.
+Af-Maay: Iyo may haleena, hantithi qarsinaayti
+
+149. They lost their way in the forest.
+Af-Maay: Iyo duuro ka dhumeena/ duuke dhatiis iyo jidkii ka dhumeen 
+
+150. They remembered their parents' advice.
+Af-Maay: Iyo hasuusitheena wali walidyaalsho ka waaniyayena/ may sahasuusitihin wanithi waalidsho 
+
+151. In the end, justice won.
+Af-Maay: Ingka dambeeyi, wali adalat ey guuleysithi/ unka dambeeyste caadalathi rooyte 
+
+152. From that day on, they became good friends.
+Af-Maay: Laka biilawo maalantas, saa'hibo fayle nagatheena
+
+153. They lived happily ever after.
+Af-Maay: Iyo markas ka dib farahad le kanoolatheena
+
+154. The lesson of the story is that kindness is always rewarded.
+Af-Maay: Barashoothi maantothang may way, nahariis limathi ina leta abaalgud/ casharke mante may iya nahariiste ina awalgud leta 
+
+156. I don't feel well.
+Af-Maay: Ani ma fiyaawyo / Ani ma roonyo/ sii faas ma dhareemoyo 
+
+157. I need a doctor.
+Af-Maay: Ani taktar ing baahinye
+
+158. Call an ambulance.
+Af-Maay: Ambalaaski ing weer
+
+159. Where is the nearest hospital?
+Af-Maay: Isbitaalki ing dhowye weeke?/isbitaalki ing dhowya inte way?
+
+160. Where is the nearest pharmacy?
+Af-Maay: Farmasigi ing dhowye weeke?farmasigi ing dhowya inte way?
+
+161. I have a fever.
+Af-Maay: Ani qandho iy haayte/qandho ihayte 
+
+162. I have a headache.
+Af-Maay: Ani matha dhuuri iy haayte/ mathagi ii dhuuriyoye 
+
+163. My stomach hurts.
+Af-Maay: Ani uurki iy dhuuriyoy
+
+164. I am allergic to nuts.
+Af-Maay: Ani loos jiro ing ka sheenase
+
+165. I need medicine.
+Af-Maay: Ani daawo ing baahinye
+
+166. I have diabetes.
+Af-Maay: Ani jiroothi sokorti qawe
+
+167. I have asthma.
+Af-Maay: Ani neef qawe
+
+168. I am in pain.
+Af-Maay: Ani hanuunsinye
+
+169. I can't breathe.
+Af-Maay: Ani ma neeftuur karo/ ma neefsiid karo 
+
+170. I feel dizzy.
+Af-Maay: Ani wareer dareemoye
+
+171. I think I broke my arm and leg.
+Af-Maay: Ani may muthooye wal ga'angtey iyo lugtey ingka jyabti/ ani may dhareemoye ina ga’ante iyo lugte ka jaawe 
+
+172. Can you help me?
+Af-Maay: Iy aawi karte?
+
+173. Is this an emergency? / Do you want us to get you quickly?
+Af-Maay: qeebtan qeebte dhigdhigi waa ? / ina awiinad dhagso halo rabte?
+
+174. Thank you for helping me.
+Af-Maay: Wali dhamang ingka aawiti ka mahadsinte/ mahadsinta madama Adi ii aawiti 
+
+175. I am feeling better now.
+Af-Maay: Ani haddi roonye/hadi roonan dareemoye
+
+155. And that is the end of the story.
+Af-Maay: Saas ka akeeyti maantothang/ sheekadi meelas ka dhamate 
+
+176. My name is ___.
+Af-Maay: Ani magaagey idiriis way/ magaagey may wa
+
+177. I am 21 years old.
+Af-Maay: Ani 21 (lawatang iyo koow) sana ka jir
+
+178. I am taking this medication.
+Af-Maay: Ani kaniing qathithooye
+
+179. I have no allergies.
+Af-Maay: Ani ma qaw shey jiro ingka sheenaso
+
+180. Please speak slowly.
+Af-Maay: Kituuge tartiib iila koot
+
+181. Can you repeat that?
+Af-Maay: Saka'eli karte?/ saka’nag karte?
+
+182. Please write it down.
+Af-Maay: Fadlang qor/fadlan hoos ka qor 
+
+183. I do not understand.
+Af-Maay: Ani ma fahamoyo/ma fahaanne 
+
+184. It started yesterday.
+Af-Maay: sheley sabilawithi /sheley bilaawithi 
+
+185. It started one hour ago.
+Af-Maay: Ama sabilaawithi hal sa ka hor/sacaad ka hor bilawithi 
+
+186. The pain is sharp.
+Af-Maay: Hanuunki zaa'it way
+
+187. The pain comes and goes.
+Af-Maay: Hanuunki kooye wana nagathe
+
+188. How much does this cost?
+Af-Maay: Kang be'she meega way?
+
+189. When can I go home?
+Af-Maay: Ani ama miningki umba kare?
+
+190. Do I need an appointment?
+Af-Maay: Ani balang ing baahinye?
+
+191. Where is the bathroom?
+Af-Maay: muusquli weete/muusquli inte kayaale 
+
+192. I am lost.
+Af-Maay: dhunsiya/ani dhunsiya 
+
+193. What is your name?
+Af-Maay: magaaga mayway/magaaga ?
+
+194. Nice to meet you.
+Af-Maay: lakulanka kafarahe 
+
+195. How are you today?
+Af-Maay: mante sii ita ?
+
+196. I am fine, thank you.
+Af-Maay: faylinya mahadsanid 
+
+197. Where do you live?
+Af-Maay: inte ka noolta?/inte dheginta ?
+
+198. Where are you going?
+Af-Maay: inte unjeede?
+
+199. What time is it?
+Af-Maay: meega sah way? 
+
+200. Do you speak English?
+Af-Maay: af ingiriis ka hathal karte?
+
+201. I only speak a little.
+Af-Maay: Wah yar lee ka hadal kare
+
+202. Excuse me.
+Af-Maay: inka Rali naago
+
+203. I am sorry.
+Af-Maay: Rali naago
+
+204. No problem.
+Af-Maay: dhib maleh 
+
+205. You are welcome.
+Af-Maay: sa dhowoow 
+
+206. Please give me some water.
+Af-Maay: fadlan Wah yar biyo isi 
+
+207. I want to buy this.
+Af-Maay: kan gadido rawe 
+
+208. Where can I find a taxi?
+Af-Maay: taksi inte ka hale ?
+
+209. Stop here, please.
+Af-Maay: intan ka roge fadlan
+
+210. Is it far from here?
+Af-Maay: intan ka dheerya?
+
+211. It is very close.
+Af-Maay: zaiid un dhowya 
+
+212. Go straight ahead.
+Af-Maay: tuurus lee undareer 
+
+213. Turn left.
+Af-Maay: bidah un leho
+
+214. Turn right.
+Af-Maay: midig un leho 
+
+215. I need to charge my phone.
+Af-Maay: mobelkey dhiib gashido rawe 
+
+216. What is the Wi-Fi password?
+Af-Maay: furage wifigi mayway ?
+
+217. Can I use your phone?
+Af-Maay: mobelka istacmal kare?
+
+218. I am looking for a job.
+Af-Maay: shaaga waydiyoye 
+
+219. What do you do for work?
+Af-Maay: may ka shageyoyte ?
+
+220. I work at a store.
+Af-Maay: Dukan ka shageyoye 
+
+221. What is the weather like today?
+Af-Maay: mante hawadi sii ita?
+
+222. It is going to rain soon.
+Af-Maay: roob qoowe mar dhoow 
+
+223. The sun is very bright.
+Af-Maay: iriidhi zaiid un iftiinoyte 
+
+224. I am going to the market.
+Af-Maay: suuqte unjeede 
+
+225. Do you have change?
+Af-Maay: saraaf hayte?
+
+226. It is too expensive.
+Af-Maay: zaiid gaale way
+
+227. Can you lower the price?
+Af-Maay: qiimagi dhiin karte?/ bicgi dhiin karte?
+
+228. I don't have enough money.
+Af-Maay: beesa inka filiinta ma hayo?
+
+229. Where can I exchange money?
+Af-Maay: inte beesade kasarfiid kare?
+
+230. Where is the bank?
+Af-Maay: bangege weeke?bangege inte way?
+
+231. I need to send a message.
+Af-Maay: fariin ina deero rawe 
+
+232. Call me later.
+Af-Maay: hadhoow isa wac 
+
+233. I will call you tonight.
+Af-Maay: hamiinkan kisa wicii 
+
+234. Let us go together.
+Af-Maay: sii wathajir unbaano 
+
+235. What happened here?
+Af-Maay: inti may ka dhii?
+
+236. Tell me the truth.
+Af-Maay: runte in sheeg 
+
+237. I don't believe it.
+Af-Maay: ma amingsinyo ani 
+
+238. Are you sure?
+Af-Maay: huubtaa?
+
+239. It is my mistake.
+Af-Maay: qalaadkey way
+
+240. Don't do that again.
+Af-Maay: sidaas mar dhambe han saameyto 
+
+==================================================
+CATEGORY 1: Everyday Expressions & Basic Needs
+==================================================
+
+1. I am hungry.
+Af-Maay: Baahi iy haayte
+
+2. I am thirsty.
+Af-Maay: Oong iy haaye
+
+3. I am tired.
+Af-Maay: Ani nooginya
+
+4. I am happy today.
+Af-Maay: Ani geegi/mante farahsinya
+
+5. I am ready.
+Af-Maay: Ani diyaar eya/diyaar eya
+
+6. I am busy.
+Af-Maay: Ani mashquulsinya/mashquul eya
+
+7. I am at home.
+Af-Maay: Ani miningki rooge
+
+8. I am going to school.
+Af-Maay: Ani iskuulke unjeede
+
+9. I am coming now.
+Af-Maay: Haddi sadarere/ haddi kooyoye
+
+10. I am leaving.
+Af-Maay: Ani bahooye
+
+11. I like this place.
+Af-Maay: Ani meelang je'elye
+
+12. This is my friend.
+Af-Maay: Kang saahibkey way
+
+13. That is my house.
+Af-Maay: Kaas miningkey way
+
+14. We are ready.
+Af-Maay: Unu diyaar ena/diyar ena
+
+15. We are eating together.
+Af-Maay: Unu hungurigi isla aamoyne/isla aamoyne
+
+16. Please give me some water.
+Af-Maay: 
+
+==================================================
+CATEGORY 2: Common Commands & Polite Requests
+==================================================
+
+1. Please sit down.
+Af-Maay: Fadlan fadheeso
+
+2. Please stand up.
+Af-Maay: Fadlan roogso
+
+3. Open the door.
+Af-Maay: Iridi fur
+
+4. Close the window.
+Af-Maay: Dariishathi hir
+
+5. Turn on the light.
+Af-Maay: Nalki shid
+
+6. Turn off the light.
+Af-Maay: Nalki demi
+
+7. Come here.
+Af-Maay: Inti kooy/ kooy inti
+
+8. Go there.
+Af-Maay: Intas seew/ intas unbaah
+
+9. Wait for me.
+Af-Maay: Isuk
+
+10. Follow me.
+Af-Maay: Iy sarah
+
+11. I understand.
+Af-Maay: Ani fahamii
+
+12. I don't understand.
+Af-Maay: Ani ma fahanne
+
+13. Speak slowly.
+Af-Maay: Tartiib ing koot/tartiib unhadal
+
+14. Speak louder.
+Af-Maay: Etka kor ing qaat/kor unhadal
+
+15. Listen carefully.
+Af-Maay: Si fiaang ing dhegeenso/si faas ung dhageenso
+
+16. Look at me.
+Af-Maay: Iy dey/ani isa dey
+
+17. Look over there.
+Af-Maay: Intas dey
+
+18. Be careful.
+Af-Maay: Is alaali
+
+19. Don't worry.
+Af-Maay: Ang ka welwelto/ Ang walwelto
+
+20. Calm down.
+Af-Maay: Is deji
+
+21. Please speak slowly.
+Af-Maay: Kituuge tartiib iila koot
+
+22. Can you repeat that?
+Af-Maay: Saka'eli karte?
+
+23. Please write it down.
+Af-Maay: Fadlang qor
+
+24. I do not understand.
+Af-Maay: Ani ma fahamoyo
+
+25. Tell me the truth.
+Af-Maay: 
+
+26. I don't believe it.
+Af-Maay: 
+
+27. Are you sure?
+Af-Maay: 
+
+28. It is my mistake.
+Af-Maay: 
+
+29. Don't do that again.
+Af-Maay: 
+
+==================================================
+CATEGORY 3: Daily Observations, Weather & Surroundings
+==================================================
+
+1. It is raining.
+Af-Maay: Roob qowooye
+
+2. It is very hot.
+Af-Maay: Kuleel zaa’it way
+
+3. It is very cold.
+Af-Maay: Qawoob zaa’it way
+
+4. The food is delicious.
+Af-Maay: Hungurgi manyang way
+
+5. The water is clean.
+Af-Maay: Biyoogi nathiif way
+
+6. The baby is sleeping.
+Af-Maay: Unugi hundurooye/dhinaanke hundurooye
+
+7. The children are playing.
+Af-Maay: Ilmo dhe'dheeloyena
+
+8. The dog is barking.
+Af-Maay: Eeyki qaayliyoye
+
+9. The cat is eating.
+Af-Maay: Nyawuthi aamoyte
+
+10. The birds are flying.
+Af-Maay: Shimbiro buuwoyan
+
+11. They are waiting outside.
+Af-Maay: iyu banki kasugooyena
+
+12. He is reading a book.
+Af-Maay: Usu buug aqriyoye
+
+13. She is writing a letter.
+Af-Maay: Iiy warqad qoroyte
+
+14. They are working hard.
+Af-Maay: Iyo zaa'it shaqeeyoyena/zaa’it shaqeeyoyena
+
+15. The market is open.
+Af-Maay: Suukti furinte
+
+16. The shop is closed.
+Af-Maay: dukaanke hirinya
+
+17. Today is a good day.
+Af-Maay: Geegi beela way/ maante maalin faas way
+
+18. Tomorrow will be better.
+Af-Maay: Beri na horle beela ing nagathaase/beri kasii faaslinta
+
+19. Yesterday was difficult.
+Af-Maay: Sheley dhib a'haayi/sheley adkayte
+
+20. Everything is okay.
+Af-Maay: Wal dhamang roonye/wal walba beela way
+
+21. Nothing is impossible.
+Af-Maay: Wal dhamang surtugal ey la weel kare/wal walba surtagal way
+
+22. What is the weather like today?
+Af-Maay: 
+
+23. It is going to rain soon.
+Af-Maay: 
+
+24. The sun is very bright.
+Af-Maay: 
+
+25. What happened here?
+Af-Maay: 
+
+==================================================
+CATEGORY 4: Greetings, Social Interactions & Polite Phrases
+==================================================
+
+1. We will meet again.
+Af-Maay: Mar kale inis aragaane/mar kale kuluumane
+
+2. Have a safe journey.
+Af-Maay: Safarka nebwed ka dhamaay/sii nebeed iy kasafar
+
+3. Welcome home.
+Af-Maay: Sadhowaaw miningki/miningki kasadhowaaw
+
+4. See you tomorrow.
+Af-Maay: Beri inis aragaane/Beri is aragaane
+
+5. My name is ___.
+Af-Maay: Ani magaagey idiriis way
+
+6. I am 21 years old.
+Af-Maay: Ani 21 (lawatang iyo koow) sana ka jir
+
+7. What is your name?
+Af-Maay: 
+
+8. Nice to meet you.
+Af-Maay: 
+
+9. How are you today?
+Af-Maay: 
+
+10. I am fine, thank you.
+Af-Maay: 
+
+11. Do you speak English?
+Af-Maay: 
+
+12. I only speak a little.
+Af-Maay: 
+
+13. Excuse me.
+Af-Maay: 
+
+14. I am sorry.
+Af-Maay: 
+
+15. No problem.
+Af-Maay: 
+
+16. You are welcome.
+Af-Maay: 
+
+17. Let us go together.
+Af-Maay: 
+
+==================================================
+CATEGORY 5: "Who" Questions & Inquiries
+==================================================
+
+1. Who is this?
+Af-Maay: Ay way kang?
+
+2. Who is that?
+Af-Maay: Ay way kaas?
+
+3. Who is it?
+Af-Maay: Ay way?
+
+4. Who is your brother?
+Af-Maay: Ay way walaalka?
+
+5. Who is your sister?
+Af-Maay: Ay way walaala?
+
+6. Who is your friend?
+Af-Maay: Ay way saahibka?
+
+7. Who is your teacher?
+Af-Maay: Ay way ma'alingka?
+
+8. Who is your boss?
+Af-Maay: Ay way badrooniga?
+
+9. Who is your child?
+Af-Maay: Ay way dhinaangka?
+
+10. Who is your wife?
+Af-Maay: Ay eta naagta?
+
+11. Who called you?
+Af-Maay: Ay king weeri?
+
+12. Who told you?
+Af-Maay: Ay king sheegi?
+
+13. Who sent you?
+Af-Maay: Ay ki sadiri?
+
+14. Who brought this?
+Af-Maay: Ay sheeni kang?/ay kang sheeni?
+
+15. Who did this?
+Af-Maay: Ay sameeyi? / Ay weeli? / Ay suubiyi?
+
+16. Who broke it?
+Af-Maay: Ay jyewiyi?
+
+17. Who took it?
+Af-Maay: Ay qaathithi?
+
+18. Who saw it?
+Af-Maay: Ay aragi?
+
+19. Who heard it?
+Af-Maay: Ay dheegi?
+
+20. Who knows?
+Af-Maay: Ay ogya?
+
+21. Who wants this?
+Af-Maay: Ay kang rabwe?
+
+22. Who needs help?
+Af-Maay: Ay la aawiyo rabwe?
+
+23. Who is coming?
+Af-Maay: Ay kooyoye?
+
+24. Who is leaving?
+Af-Maay: Ay bahooye?
+
+25. Who is speaking?
+Af-Maay: Ay koothoye?
+
+26. Who is laughing?
+Af-Maay: Ay qosholooye?
+
+27. Who is crying?
+Af-Maay: Ay ooyoye?
+
+28. Who is singing?
+Af-Maay: Ay heesoye?
+
+29. Who is working?
+Af-Maay: Ay shaqeeyoye?
+
+30. Who is sleeping?
+Af-Maay: Ay hundurooye?
+
+31. Who is waiting?
+Af-Maay: Ay sugooye?
+
+32. Who is driving?
+Af-Maay: Ay weethoye?
+
+33. Who is cooking?
+Af-Maay: Ay kariyooye?
+
+34. Who is eating?
+Af-Maay: Ay aamoye?
+
+35. Who is drinking?
+Af-Maay: Ay dhamooye?
+
+36. Who is knocking?
+Af-Maay: Ay sadhowoye?
+
+37. Who is at the door?
+Af-Maay: Ay rooge iridi?
+
+38. Who is on the phone?
+Af-Maay: Ay teleefangki ki jir?
+
+39. Who lives here?
+Af-Maay: Ay deginye inti?
+
+40. Who lives there?
+Af-Maay: Ay deginye intaas?
+
+41. Who is first?
+Af-Maay: Ay ka hooreyi?
+
+42. Who is next?
+Af-Maay: Ay ka hikye?
+
+43. Who is right?
+Af-Maay: Ay sahsinye?
+
+44. Who is wrong?
+Af-Maay: Ay qaldinye?
+
+45. Who is responsible?
+Af-Maay: Ay mas'uul ka eya?
+
+46. Who are we waiting for?
+Af-Maay: Ay sugooyne?
+
+47. Who do you mean?
+Af-Maay: Ay kawede ?
+
+48. Who do you know?
+Af-Maay: Ay ogte?/ay kasooyte?
+
+49. Who should I ask?
+Af-Maay: Ay warsithe?
+
+==================================================
+CATEGORY 6: Storytelling, Narratives & Connectors
+==================================================
+
+1. Once upon a time, there was a kind king.
+Af-Maay: Maalin maalmo ka mid ita maay jiraay boqor nahariis badanya
+
+2. Long ago, people lived very differently.
+Af-Maay: wagtige hore dadke si kala duwan u noolad jireen
+
+3. There was a young boy named Ahmed.
+Af-Maay: maay jir jiraay dhinaan yar oo la dhahaw Ahmed
+
+4. There lived an old woman in a small village.
+Af-Maay: Miy jiraayte naag duq ita oo tuulo yar ku noolayte
+
+5. One day, everything changed.
+Af-Maay: Maalanto wal walbo is baddeleen
+
+6. Early one morning, the family left home.
+Af-Maay: Hiraabsimeelko, reerki miningki ku behena
+
+7. Later that day, they reached the river.
+Af-Maay: Maalantas ku bahdi, wobigi deerena
+
+8. Suddenly, they heard a loud noise.
+Af-Maay: Dikniin la'aang, qaayli wiin dheegena
+
+9. At that moment, everyone became quiet.
+Af-Maay: Waqtigaas, detki dhamang nyiik may ka dheegne
+
+10. Meanwhile, another group was searching for them.
+Af-Maay: Iska markaas, asahab tikal iyo weydiyayena
+
+11. After a while, the rain stopped.
+Af-Maay: Ku bahdi, roobki rooksithi
+
+12. Then, they continued their journey.
+Af-Maay: Markas, iyo safarsho wethitheena
+
+13. Next, they climbed the mountain.
+Af-Maay: Markaas na, iyo buurti koreena
+
+14. Finally, they arrived safely at home.
+Af-Maay: Dhamaatki, iyo miningsho kooyena
+
+15. Because of that, everyone was happy.
+Af-Maay: Sithaas hungshe, kulisho farahsinaayena
+
+16. As a result, the village became peaceful.
+Af-Maay: So saarihaang, tuulki nebwed ka kooytii
+
+17. However, one person disagreed.
+Af-Maay: Laaking, hal kof diithi
+
+18. Even though it was difficult, they never gave up.
+Af-Maay: Sithi siikasto ka rafathena, weli mas quusne
+
+19. Unfortunately, they lost all their food.
+Af-Maay: Nasiib dar, hungurisho kuli wayeena
+
+20. Fortunately, a traveler helped them.
+Af-Maay: Nasiib fayle, kof safarayi iyo aawiyi
+
+21. Without warning, the wind became very strong.
+Af-Maay: Dikniin la'aang, hangfarki zaa'it ulees nagathi
+
+22. To everyone's surprise, the child solved the problem.
+Af-Maay: Kof walbo yaawi, marki igaarki dhibki ilmigis katoosiyi
+
+23. He said, "Do not be afraid."
+Af-Maay: Usu may dha'hi, "Ang absito"
+
+24. They replied, "We will help you."
+Af-Maay: Iyo ka juwaabena, "Unu ka aawiyaane"
+
+25. They decided to stay together.
+Af-Maay: Iyo may talitheena ina isla jiraathona
+
+26. They began to build a new home.
+Af-Maay: Iyo may bilaawena dhismothi miningki useebki
+
+27. They continued working until sunset.
+Af-Maay: Iyo wethena hooli intigi iriithi ka dhiyaaso
+
+28. They found a hidden treasure.
+Af-Maay: Iyo may haleena, hantithi qarsinaayti
+
+29. They lost their way in the forest.
+Af-Maay: Iyo duuro ka dhumeena
+
+30. They remembered their parents' advice.
+Af-Maay: Iyo hasuusitheena wali walidyaalsho ka waaniyayena
+
+31. In the end, justice won.
+Af-Maay: Ingka dambeeyi, wali adalat ey guuleysithi
+
+32. From that day on, they became good friends.
+Af-Maay: Laka biilawo maalantas, saa'hibo fayle nagatheena
+
+33. They lived happily ever after.
+Af-Maay: Iyo markas ka dip farah le kanoolatheena
+
+34. The lesson of the story is that kindness is always rewarded.
+Af-Maay: Barashoothi maantothang may way, nahariis limathi ina leta abaalgud
+
+35. And that is the end of the story.
+Af-Maay: Saas ka akeeyti maantothang
+
+==================================================
+CATEGORY 7: Medical, Health & Emergencies
+==================================================
+
+1. I don't feel well.
+Af-Maay: Ani ma fiyaawyo / Ani ma roonyo
+
+2. I need a doctor.
+Af-Maay: Ani taktar ing baahinye
+
+3. Call an ambulance.
+Af-Maay: Ambalaaski ing weer
+
+4. Where is the nearest hospital?
+Af-Maay: Isbitaalki ing dhowye weeke?
+
+5. Where is the nearest pharmacy?
+Af-Maay: Farmasigi ing dhowye weeke?
+
+6. I have a fever.
+Af-Maay: Ani qandho iy haayte
+
+7. I have a headache.
+Af-Maay: Ani matha dhuuri iy haayte
+
+8. My stomach hurts.
+Af-Maay: Ani uurki iy dhuuriyoy
+
+9. I am allergic to nuts.
+Af-Maay: Ani loos jiro ing ka sheenase
+
+10. I need medicine.
+Af-Maay: Ani daawo ing baahinye
+
+11. I have diabetes.
+Af-Maay: Ani jiroothi sokorti qawe
+
+12. I have asthma.
+Af-Maay: Ani neef qawe
+
+13. I am in pain.
+Af-Maay: Ani hanuunsinye
+
+14. I can't breathe.
+Af-Maay: Ani ma neeftuur karo
+
+15. I feel dizzy.
+Af-Maay: Ani wareer dareemoye
+
+16. I think I broke my arm and leg.
+Af-Maay: Ani may muthooye wal ga'angtey iyo lugtey ingka jyabti
+
+17. Can you help me?
+Af-Maay: Iy aawi karte?
+
+18. Is this an emergency? / Do you want us to get you quickly?
+Af-Maay: Wahang sheey dhibdhagsi way? / iyoow la king ka sadeerow rabte?
+
+19. Thank you for helping me.
+Af-Maay: Wali dhamang ingka aawiti ka mahadsinte
+
+20. I am feeling better now.
+Af-Maay: Ani haddi roonye
+
+21. I am taking this medication.
+Af-Maay: Ani kaniing qathithooye
+
+22. I have no allergies.
+Af-Maay: Ani ma qaw shey jiro ingka sheenaso
+
+23. It started yesterday.
+Af-Maay: sheley sabilawithi
+
+24. It started one hour ago.
+Af-Maay: Ama sabilaawithi hal sa ka hor
+
+25. The pain is sharp.
+Af-Maay: Hanuunki zaa'it way
+
+26. The pain comes and goes.
+Af-Maay: Hanuunki kooye wana nagathe
+
+27. When can I go home?
+Af-Maay: Ani ama miningki umba kare?
+
+28. Do I need an appointment?
+Af-Maay: Ani balang ing baahinye?
+
+==================================================
+CATEGORY 8: Directions, Travel & Transportation
+==================================================
+
+1. Where is the bathroom?
+Af-Maay: muusquli weete?
+
+2. I am lost.
+Af-Maay: dhuunsinya 
+
+3. Where do you live?
+Af-Maay: inte ka noolta?/inte dhegiinta?
+
+4. Where are you going?
+Af-Maay: inte unjeede?
+
+5. Where can I find a taxi?
+Af-Maay: inte taksi ka hale?/inte fatuura ka hale? 
+
+6. Stop here, please.
+Af-Maay: inte ka rooji fadlan 
+
+7. Is it far from here?
+Af-Maay: inte ka dhiirya?
+
+8. It is very close.
+Af-Maay: zaiid iya undhoowya 
+
+9. Go straight ahead.
+Af-Maay: tuurus un dhareer hore 
+
+10. Turn left.
+Af-Maay: bidah un leeho 
+
+11. Turn right.
+Af-Maay: midig un leeho 
+
+==================================================
+CATEGORY 9: Shopping, Money & Services
+==================================================
+
+1. How much does this cost?
+Af-Maay: Kang be'she meega way? Kang meega way m?
+
+2. I want to buy this.
+Af-Maay: kang ina gadido rawe 
+
+3. I am going to the market.
+Af-Maay: suugte unjeede 
+
+4. Do you have change?
+Af-Maay:  saraf hayte?
+
+5. It is too expensive.
+Af-Maay: qaali way 
+
+6. Can you lower the price?
+Af-Maay: becgi hoos un dhiig karte?
+
+7. I don't have enough money.
+Af-Maay: beesa inka fiilinta ma hayo 
+
+8. Where can I exchange money?
+Af-Maay: inte beesadi ka sarfiid kare?
+
+9. Where is the bank?
+Af-Maay: bengigi weeke?
+
+==================================================
+CATEGORY 10: Work, Technology & Communication
+==================================================
+
+1. What time is it?
+Af-Maay: meega saac way?
+
+2. I need to charge my phone.
+Af-Maay: mobelkey diib gashido rawe
+
+3. What is the Wi-Fi password?
+Af-Maay: fuuragi wifi may way?
+
+4. Can I use your phone?
+Af-Maay: mobelka istacmaal kare?
+
+5. I am looking for a job.
+Af-Maay: shaqo weydiyoye
+
+6. What do you do for work?
+Af-Maay: may ka shageyoyte 
+
+7. I work at a store.
+Af-Maay: dukan ka shageyoye 
+
+8. I need to send a message.
+Af-Maay: fariin ina dhiiro rawe
+
+9. Call me later.
+Af-Maay: hadhoow isa wac
+
+10. I will call you tonight.
+Af-Maay:  hamiingkang kisa wici 
+
+—----------------------------------------------------
+CATEGORY 11 QUOTES AND SAYING
+—----------------------------------------------------
+
+1.A person who is patient eventually succeeds.
+Af Maay: qofke sawaro unka dhambeen guul dheeri 
+
+2.A knowledgeable person has light in life.
+Af Maay: qofke wal baratho nooloshodes iftiin sithi 
+
+3.A person who tells the truth earns people’s trust.
+Af Maay: qofke ruunti sheego aya kalsoonidi dadki hele 
+
+4.A person who works improves his life.
+Af Maay: Qofki shaaqiiyo aya nooloshidis hormariiye 
+
+5.A person who values time gets many opportunities.
+Af Maay: qofki waqtishii ilaaliyo aya fursadi unka badanta hale
+
+6.What you plant today, you will harvest tomorrow
+Af Maay: wali mante beerito aya beeri guriidasi 
+
+7.A person who accepts good advice avoids many mistakes.
+Af Maay: qofki taali beela ita qadido khalaad badan ka fogaadhi 
+
+8. Everyone has their day.
+Af Maay: qof walbo malintis leeya 
+
+9.Wasted time cannot be recovered.
+Af Maay: waqtigi dhuumi Mal sanag karow
+
+10.One who rejects advice may receive bad consequences.
+Af Maay: ninki tali beela ita diido tali huun hale
+
+11. Patience is the key to success.
+Af Maay:dulqaadke may way furagi guulshe/ sawarke may iya furagi guushe 
+
+12.A person who never makes mistakes never learns something new.
+Af Maay: qof wal hanqaladne wal cuseeb mabaradhow 
+
+13.A person who believes in himself achieves much.
+Af Maay:qofke is amiino mel dheer dheere 
+
+14.Whoever walks a long road eventually reaches somewhere.
+Af Maay:qofki Jed dheer maro mel dheer dheere 
+
+15.Do not reveal another person’s secret.
+Af Maay:sirte qof kale han faafito 
+
+16.A brave person does not run from difficulties.
+Af Maay:nin geesi iya dhib maka rooraw 
+
+17.One who listens learns a lot.
+Af Maay:qofke wal zaiid undhageysidaw wal badan barathi 
+
+18.Whoever begins a journey will eventually arrive somewhere.
+Af Maay:qofke safar biilawo unka dhambis mel faas dheere 
+
+19.Everyone follows their own kind.
+Af Maay:geel walba geelshe aya ila dhaaqi 
+
+20.Measured words do not hurt the heart.
+Af Maay:hadalke la miizamo qalbi dadhow ma dhaawaaw 
+
+21.Silence is sometimes an answer.
+Af Maay:aamusnante mararka qaar jawab way
+
+22.A person without hope cannot travel a long road.
+Af Maay:ninke rajo han lahayne jeed dheer ma mar karo 
+
+23.One who knows his work does not waste time
+Af Maay:ninke shaqadis kasooye waqtishe maqasaaro 
+
+24.A person without a plan gets lost on every road.
+Af Maay:nin qorsho han lahaayne jeed walbo ka wareere 
+
+25.One who loves truth does not fear lies.
+Af Maay:qofke runte jacelya been maka cabsiido 
+
+26.Every word has its proper time.
+Af Maay:hadal walbo waqtishe leyaa
+
+27.Opportunity passes by the person who does not strive.
+Af Maay: nin dadaalaw han kasaayne aya fursad samarasi
+
+28.One who cannot see his faults cannot improve himself.
+Af Maay:ninke ceebtis hang aragayne wanagshe ma hagaaji karo 
+
+29.One who makes others happy finds happiness.
+Af Maay:qofke dadke ka farhiyo farhad halee 
+
+30.One who knows the right path does not fear darkness.
+Af Maay:qofki jeedke sahde kasooye mugdi maka cabsiidaw 
+
+31.Patience makes hardship easier.
+Af Maay: qofki dulkadke badiyo dhibki ka yaraade 
+
+32.Sharing happiness can lessen sorrow.
+Af Maay:ninke farhad dadki ila wadago murugtis yaraadase
+
+33.Even when there are difficulties don’t give up hope is life.
+Af Maay: hata hadi dhib jiri han quursito ilen rajada noolol way
+
+35.If you fail today you can still rise again.
+Af Maay:Hadi Adi mante guul dareeysito iska daay ina ani kor unkato 
+
+36.Hardship is a teacher.
+Af Maay: dhibki adi samarte wal ka baro ilen dhibke macalin way 
+
+37.Whoever learns becomes somebody.
+Af Maay:qofki wal baradho wal nagade 
+
+38.A hardworking person finds success.
+Af Maay:qofki dadadalo nasib faas hale 
+
+39.Work hard today for happiness tomorrow.
+Af Maay:dadal mante sii adi farhad beri un halo 
+
+40.Whoever holds on to hope will find light even in darkness.
+Af Maay:qofki rajadis ilalsido mugdi datis iftiin ka hale 
